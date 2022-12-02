@@ -1,4 +1,3 @@
-<html>
 <h1>Joint Project</h1>
 <h2>Inledning</h2>
 
@@ -14,14 +13,3 @@
 <ul>
     <li>[skriv features här]</li>
 </ul>
-
-<style>
-    h1{
-        text-align:center;
-    }
-
-    h2{
-
-    }
-</style>
-</html>
