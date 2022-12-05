@@ -11,5 +11,12 @@
 
 <p>Vi har planerat att produkten skall innehålla följande ’Features’: </p>
 <ul>
-    <li>[skriv features här]</li>
+    <li>~~Geolocation~~ (v.2)</li>
+    <li>Pathfinding</li>
+    <li>Användarvänligtgränssnitt  (Karta)</li>
+        <p>Högupplösta bilder</p>
+        <p> Börja med plan 4 (positionering,karata..osv)</p>
+    <li>Startpunkt: hissen</li>
+    <li>Ange distination </li>
+    <li>Rumhistorik/ favoriter (v2)</li>
 </ul>
