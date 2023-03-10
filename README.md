@@ -11,12 +11,23 @@
 
 <p>Vi har planerat att produkten skall innehålla följande ’Features’: </p>
 <ul>
-    <li>~~Geolocation~~ (v.2)</li>
     <li>Pathfinding</li>
     <li>Användarvänligtgränssnitt  (Karta)</li>
-        <p>Högupplösta bilder</p>
-        <p> Börja med plan 4 (positionering,karata..osv)</p>
+        <ul>
+      <li>Högupplösta bilder</li>
+      <li>Börja med plan 4 (positionering,karta..osv)</li>
+    </ul>
     <li>Startpunkt: hissen</li>
-    <li>Ange distination </li>
-    <li>Rumhistorik/ favoriter (v2)</li>
+    <li>Ange destination </li>
+    <li>Geolocation (v2)</li>
+    <li>Rumhistorik/favoriter (v2)</li>
 </ul>
+
+<h2>UI-prototyp</h2>
+
+![](./images/dropdown-selection.png)
+![](./images/selected-room.png)
+
+<h2>Dataflödesdiagram</h2>
+
+![](./images/dataflow-diagram.png)
