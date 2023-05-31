@@ -31,3 +31,25 @@
 <h2>Dataflödesdiagram</h2>
 
 ![](./images/dataflow-diagram.png)
+
+<h2>Hur vi kan marknadsföra vår produkt</h2>
+
+Har ni svårt att hitta på HK? Vi kanske har lösningen
+
+Grupp på intranätet - Dialog om HK Elektrogatan
+
+Där kan man initiera t.ex. frågan ovan
+
+Man kan även marknadsföra till nyheter i nyhetsbrevet som skickas ut till allas mail
+
+Barbro kan ta på sig att gå in för att stå för inlägget som skrivs
+
+Bra att ha med användartester
+
+Vi kan behöva sätta ett datum för att informera dom om produkten i så fall och där vi kan hänvisa till vårat design dokument
+
+Barbro kan hjälpa oss med vad vi behöver skriva i så fall när vi ska marknadsföra
+
+Vi måste ta reda på hur många som får vara i lokalen samtidigt innan vi bokar ett informationsmöte
+
+Vi behöver fråga vad maxkapaciteten är i fastigheten för produktens skull
