@@ -51,5 +51,3 @@ Vi kan behöva sätta ett datum för att informera dom om produkten i så fall o
 Barbro kan hjälpa oss med vad vi behöver skriva i så fall när vi ska marknadsföra
 
 Vi måste ta reda på hur många som får vara i lokalen samtidigt innan vi bokar ett informationsmöte
-
-Vi behöver fråga vad maxkapaciteten är i fastigheten för produktens skull
