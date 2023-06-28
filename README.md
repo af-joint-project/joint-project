@@ -32,6 +32,7 @@
 
 ![](./images/dataflow-diagram.png)
 
+
 <h2>Hur vi kan marknadsföra vår produkt</h2>
 
 Har ni svårt att hitta på HK? Vi kanske har lösningen
@@ -51,3 +52,12 @@ Vi kan behöva sätta ett datum för att informera dom om produkten i så fall o
 Barbro kan hjälpa oss med vad vi behöver skriva i så fall när vi ska marknadsföra
 
 Vi måste ta reda på hur många som får vara i lokalen samtidigt innan vi bokar ett informationsmöte
+
+<h2>Roller för respektive teammedlem</h2>
+<ul>
+  <li>Christian Hall: Backend</li>
+  <li>Andrew Bwogi: Frontend</li>
+  <li>Khosro Jadidi: Test</li>
+  <li>Khaled Al Asad: Frontend</li>
+  <li>Christian Fujimaki Ahlsen : Backend</li>
+</ul>
