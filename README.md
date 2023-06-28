@@ -35,7 +35,7 @@
 <h2>Roller för respektive teammedlem</h2>
 <ul>
   <li>Christian Hall: Backend</li>
-  <li>Andrew Bwogi: frontend</li>
+  <li>Andrew Bwogi: Frontend</li>
   <li>Khosro Jadidi: Test</li>
   <li>Khaled Al Asad: Frontend</li>
   <li>Christian Fujimaki Ahlsen : Backend</li>
