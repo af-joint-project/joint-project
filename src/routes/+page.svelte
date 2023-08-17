@@ -1,5 +1,5 @@
 <script>
-	import Hello from './Hello.svelte';
+	import Hello from '$lib/components/Hello.svelte';
 </script>
 
 <main>
