@@ -1,7 +1,15 @@
 <script>
-	import Hello from '$lib/components/Hello.svelte';
+	/** @type {number} */
+	let number;
+
+	async function roll() {
+		const response = await fetch('api/coordinates');
+		number = await response.json();
+	}
 </script>
 
-<main>
-	<Hello />
-</main>
+<button on:click={roll}>Roll the dice</button>
+
+{#if number !== undefined}
+	<p>You rolled a {number}</p>
+{/if}
