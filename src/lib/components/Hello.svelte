@@ -1,4 +1,5 @@
 <script>
+	import { json } from '@sveltejs/kit';
 	import { onMount } from 'svelte';
 
 	let helloMessage = '';
@@ -7,7 +8,7 @@
 		try {
 			const response = await fetch('/api/rooms');
 			const data = await response.json();
-			helloMessage = data.message;
+			helloMessage = JSON.stringify(data);
 		} catch (error) {
 			console.error('Error:', error);
 		}
